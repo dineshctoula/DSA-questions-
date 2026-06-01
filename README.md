@@ -16,11 +16,12 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 | **Day 5** | Greedy / Dynamic Programming | [Best Time to Buy & Sell Stock](file:///home/dinesh/Desktop/dsa%20questions/day%205/best_time_to_buy_and_sell_stock.py) | Time: $O(n)$ \| Space: $O(1)$ | ✅ Completed |
 | **Day 6** | Two Pointers / Set | [Remove Duplicates](file:///home/dinesh/Desktop/dsa%20questions/day%206/remove_duplicates.py) | Time: $O(n)$ \| Space: $O(1)$ | ✅ Completed |
 | **Day 7** | Array Scanning | [Second Largest Element](file:///home/dinesh/Desktop/dsa%20questions/day%207/second_largest_element.py) | Time: $O(n)$ \| Space: $O(1)$ | ✅ Completed |
-| **Day 8** | *Next Challenge* | Pending... | - | ⏳ Up Next |
+| **Day 8** | Stack Operations | [Valid Parentheses](file:///home/dinesh/Desktop/dsa%20questions/day%208/valid_parentheses.py) | Time: $O(n)$ \| Space: $O(n)$ | ✅ Completed |
+| **Day 9** | *Next Challenge* | Pending... | - | ⏳ Up Next |
 
 ---
 
-## 📁 Days 1–7 Problem Details
+## 📁 Days 1–8 Problem Details
 
 ### Day 1: [Reverse String](file:///home/dinesh/Desktop/dsa%20questions/day%201/reverse_string.py)
 - **Problem**: Reverse a given string in Python.
@@ -49,6 +50,10 @@ This repository tracks my daily progress in solving Data Structures and Algorith
 ### Day 7: [Second Largest Element](file:///home/dinesh/Desktop/dsa%20questions/day%207/second_largest_element.py)
 - **Problem**: Find the second largest distinct element in an array.
 - **Approach**: Demonstrates the $O(n)$ single-pass scan method keeping track of the largest and second largest elements (handles duplicates correctly).
+
+### Day 8: [Valid Parentheses](file:///home/dinesh/Desktop/dsa%20questions/day%208/valid_parentheses.py)
+- **Problem**: Determine if bracket pairings in a string are valid (LeetCode 20).
+- **Approach**: Uses a Stack data structure and a lookup table to match brackets in $O(n)$ time.
 
 ---
 
